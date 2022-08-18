@@ -115,15 +115,7 @@
 
   Se quiser saber mais sobre a instalação de dependências com `pip`, veja esse [artigo](https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1).
 
-  <p align="center">
-    <img src="/.images/flask-logo.png" alt="Logo Flask" width="200"/>
-  </p>
 
-  Além dos testes com o Pytest, você pode (e vai ser bem bacana) rodar a aplicação flask para visualizar no navegador o resultado do desenvolvimento das funções.
-  Para isso, digite o comando `flask run`, e acesse o site gerado pelo Flask em `http://localhost:5000`. No começo do desenvolvimento, você verá que muitas coisas não funcionam, mas conforme você for implementando os requisitos, perceberá que a aplicação web começa a utilizar suas implementações e passa a ganhar vida.
 
-  <p align="center">
-    <img src="/.images/sistema.png" alt="Tela Aplicação" width="800"/>
-  </p>
 
 
