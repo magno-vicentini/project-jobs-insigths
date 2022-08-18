@@ -1,5 +1,4 @@
 
-<details>
   <summary><strong>👨‍💻 O que foi desenvolvido neste projeto:</strong></summary><br />
   <p align="center">
     <img src="/.images/job.png" alt="Logo Aplicação" width="300"/>
@@ -18,11 +17,9 @@
     <li>Escrever testes com Pytest.</li>
     <li>Escrever seus próprios módulos e importá-los em outros códigos.</li>
   </ul>
-</details>
 
 
 # Orientações
-<details>
   <summary><strong>⚠ Antes de começar a desenvolver</strong></summary><br />
 
   1. Clone o repositório
@@ -38,10 +35,7 @@
   - `python3 -m pip install -r dev-requirements.txt`
   
 
-</details>
 
-
-<details>
   <summary><strong>🎛 Linter</strong></summary><br />
 
   Para garantir a qualidade do código, vamos utilizar neste projeto o linter `Flake8`.
@@ -51,9 +45,7 @@
   ```bash
   python3 -m flake8
   ```
-</details>
 
-<details>
   <summary><strong>🏕️ Ambiente Virtual</strong></summary><br />
   O Python oferece um recurso chamado de ambiente virtual, onde permite sua máquina rodar sem conflitos, diferentes tipos de projetos com diferentes versões de bibliotecas.
 
@@ -79,9 +71,8 @@
   Quando precisar desativar o ambiente virtual, execute o comando "deactivate". Lembre-se de ativar novamente quando voltar a trabalhar no projeto.
 
   O arquivo `dev-requirements.txt` contém todas as dependências que serão utilizadas no projeto, ele está agindo como se fosse um `package.json` de um projeto `Node.js`.
-</details>
 
-<details>
+
   <summary><strong>🛠 Testes</strong></summary><br />
 
   Para executar os testes certifique-se de que você está com o ambiente virtual ativado.
@@ -135,5 +126,4 @@
     <img src="/.images/sistema.png" alt="Tela Aplicação" width="800"/>
   </p>
 
-</details>
 
