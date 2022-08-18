@@ -4,7 +4,7 @@
     <img src="/.images/job.png" alt="Logo Aplicação" width="300"/>
   </p>
   
-  Neste projeto foi implementará análises a partir de um conjunto de dados sobre empregos. As implementações foram incorporadas a um aplicativo Web desenvolvido com Flask. Também terá a oportunidade de escrever testes para a implementação de uma análise de dados. Por fim, como bônus, você terá o desafio de escrever uma rota e view para um recurso novo usando Flask!
+  Neste projeto foi implementará análises a partir de um conjunto de dados sobre empregos. As implementações foram incorporadas a um aplicativo Web desenvolvido com Flask. Alem de uso de testes.
 
   🚵 Habilidades trabalhadas:
   <ul>
